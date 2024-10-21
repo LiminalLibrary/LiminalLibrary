@@ -1,0 +1,71 @@
+
+/*body style */
+body {
+    /* background-image: linear-gradient( 109.6deg,  rgba(177,173,219,1) 11.2%, rgba(245,226,226,1) 91.1% ); */
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+     /* background-image: linear-gradient(180deg, rgba(0, 0, 0, .23) 78.1%, rgba(255, 255, 255, .5) 54%); */
+     background-image: url('img/aboutbg.png');
+     background-size: cover;
+    
+   }
+ 
+   .oldenburg-regular {
+     font-family: "Oldenburg", serif;
+     font-weight: 400;
+     font-style: normal;
+     color: rgb(68, 68, 68);
+   }
+   
+   /*Web Title*/
+   div.webtitle {
+     text-align: center;
+     background-color: rgba(31, 31, 31, .19);
+     border: double rgb(31, 31, 31) 4px;
+     font-size: 70px;
+     font-stretch: wider;
+     border-style: double;
+     /*background-image: linear-gradient( 109.6deg,  rgba(177,173,219,1) 11.2%, rgba(245,226,226,1) 91.1% );*/
+   }
+ img #sitetitle {
+   position: absolute;
+   align-self: center;
+   }
+ 
+   div.content {
+    background-color: rgba(31, 31, 31, .19);
+    border: double rgb(31, 31, 31) 4px;
+   }
+ 
+
+ /*Menu*/
+ div.mainmenu {
+   background-color: rgba(31, 31, 31, .19);
+   text-align: center;
+   font-size: large;
+   border: double rgb(31, 31, 31) 4px;
+   /* background-image: linear-gradient( 109.6deg,  rgba(177,173,219,1) 11.2%, rgba(245,226,226,1) 91.1% ); */
+ }
+ 
+ /* Links */
+ a {
+   font-size: large;
+ 
+ }
+ a:link {
+     color: rgb(68, 68, 68);
+   }
+ a:visited {
+     color: rgb(68, 68, 68);
+   }
+  a:hover {
+     color: rgb(68, 68, 68);
+     font-size: larger;
+   }
+ a:active {
+     color: rgb(68, 68, 68);
+   }
+ 
+   html, body {
+       height: 100%;
+   }
+   
